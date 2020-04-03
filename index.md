@@ -1,37 +1,7 @@
 ## Larry Han
 
-You can use the [editor on GitHub](https://github.com/larryhan320/larryhan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a 2nd year PhD candidate in [biostatistics](https://www.hsph.harvard.edu/biostatistics/) at the Harvard T.H. Chan School of Public Health. I am advised by Professor Tianxi Cai and Professor Lorenzo Trippa. Previously, I obtained my MPhil in Management Operations from the University of Cambridge under the guidance of Professor Stefan Scholtes and my MA in Global Affairs from Tsinghua University as part of the inaugural class of Schwarzman Scholars. I completed my bachelors in biostatistics from the University of North Carolina at Chapel Hill.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am interested in developing statistical methods and applications for clinical medicine and pubilc health problems, especially in the analysis of clinical trials, electronic health records and real-world data.  
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/larryhan320/larryhan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you can't reach me, it's likely that I'm on the **golf** course, catching up on the latest in _US-China relations_, or `cheering` on the Tar Heels basketball team!
