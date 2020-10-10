@@ -6,4 +6,6 @@ I'm a 3rd-year PhD candidate in [biostatistics](https://www.hsph.harvard.edu/bio
 
 Previously, I obtained my MPhil in Management Operations from the University of Cambridge under the guidance of Professor Stefan Scholtes and my MA in Global Affairs from Tsinghua University as an inaugural [Schwarzman Scholar](https://www.schwarzmanscholars.org/). I completed my bachelors in biostatistics from the University of North Carolina at Chapel Hill.
 
-If you can't reach me, it's likely that I'm on the golf course, catching up on the latest in US-China relations, or cheering on the Tar Heels basketball team!
+Email: larryhan [at] g [dot] harvard [dot] edu 
+
+If you can't reach me, it's likely that I'm on the golf course, catching up on the latest in US-China relations, or cheering on the Tar Heels!
