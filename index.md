@@ -1,6 +1,6 @@
 ## Larry Han
 
-(https://user-images.githubusercontent.com/43854975/95666557-c9f7f500-0b28-11eb-87d9-b0bba86bdd0c.png)
+<img width="411" alt="smart" src="https://user-images.githubusercontent.com/43854975/95666626-6b7f4680-0b29-11eb-8060-c4501a0b7ea1.png">
 
 I'm a 3rd-year PhD candidate in [biostatistics](https://www.hsph.harvard.edu/biostatistics/) at Harvard University. My research focuses on developing statistical methods to leverage the sub-optimality of real world data to improve decision-making in public health and clinical medicine. I'm lucky to be advised by Professor Tianxi Cai and Professor Lorenzo Trippa.
 
