@@ -1,4 +1,4 @@
-<img width="411" alt="smart" src="https://user-images.githubusercontent.com/43854975/95666626-6b7f4680-0b29-11eb-8060-c4501a0b7ea1.png">
+<img width="380" alt="casual" src="https://user-images.githubusercontent.com/43854975/95690181-c2e1ed00-0be3-11eb-9f7c-fc35e1f67fac.png">
 
 I'm a 3rd-year PhD candidate in [biostatistics](https://www.hsph.harvard.edu/biostatistics/) at Harvard University. [My research](https://scholar.google.com/citations?user=iZnTmxMAAAAJ&hl=en&oi=ao) focuses on developing statistical methods to leverage sub-optimal real world data to improve decision-making in public health and clinical medicine. I'm lucky to be advised by [Professor Tianxi Cai](https://www.hsph.harvard.edu/tianxi-cai/).
 
