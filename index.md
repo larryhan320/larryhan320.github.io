@@ -1,8 +1,8 @@
 <img width="411" alt="smart" src="https://user-images.githubusercontent.com/43854975/95666626-6b7f4680-0b29-11eb-8060-c4501a0b7ea1.png">
 
-I'm a 3rd-year PhD candidate in [biostatistics](https://www.hsph.harvard.edu/biostatistics/) at Harvard University. My research focuses on developing statistical methods to leverage the sub-optimality of real world data to improve decision-making in public health and clinical medicine. I'm lucky to be advised by Professor Tianxi Cai and Professor Lorenzo Trippa.
+I'm a 3rd-year PhD candidate in [biostatistics](https://www.hsph.harvard.edu/biostatistics/) at Harvard University. [My research](https://scholar.google.com/citations?user=iZnTmxMAAAAJ&hl=en&oi=ao) focuses on developing statistical methods to leverage the sub-optimality of real world data to improve decision-making in public health and clinical medicine. I'm lucky to be advised by [Professor Tianxi Cai](https://www.hsph.harvard.edu/tianxi-cai/) and [Professor Lorenzo Trippa](https://bcb.dfci.harvard.edu/~ltrippa/).
 
-Previously, I obtained my MPhil in Management Operations from the University of Cambridge under the guidance of Professor Stefan Scholtes and my MA in Global Affairs from Tsinghua University as an inaugural [Schwarzman Scholar](https://www.schwarzmanscholars.org/). I completed my bachelors in biostatistics from the University of North Carolina at Chapel Hill.
+Previously, I obtained my MPhil in Management Operations from the University of Cambridge under the guidance of [Professor Stefan Scholtes](https://www.jbs.cam.ac.uk/faculty-research/faculty-a-z/stefan-scholtes/) and my MA in Global Affairs from Tsinghua University as an inaugural [Schwarzman Scholar](https://www.schwarzmanscholars.org/). I completed my bachelors in biostatistics from the University of North Carolina at Chapel Hill.
 
 If you can't reach me, it's likely that I'm on the golf course, catching up on the latest in US-China relations, or cheering on the Tar Heels!
 
@@ -127,4 +127,23 @@ Tucker JD, Muessig KE, Cui R, Bien CH, Lo EJ, Lee R, Wang K, **Han L,** Liu FY, 
 Sexually Transmitted Infections (2014).  
 Wei C, Muessig KE, Bien C, Yang L, Meng R, **Han L,** Yang M, Tucker JD.
 
+## Service
 
+**Harvard Department of Biostatistics Diversity, Inclusion, and Equity Committee**.  
+PhD Student Representative (2020-).
+
+**Harvard Department of Biostatistics Mental Health Working Group**.  
+Lead for promotion of department community at a distance (2020-).
+
+**University of North Carolina -- Carolina Collective**.  
+Organizing committee for safe and effective re-opening of campus during the COVID-19 era (2020-).
+
+## Teaching
+
+**BST 222: Basics of Statistical Inference**.  
+Teaching Fellow: Fall 2019, 2020.  
+An introductory course on probability theory and mathematical statistics for masters students in biostatistics and doctoral students in other departments.
+
+**BST 214/238: Advanced Topics in Clinical Trials**.  
+Teaching Fellow: Spring 2020, 2021.
+A doctoral course for biostatistics students on advanced topics in the design, analysis, and interpretation of clinical trials, including study design; choice of endpoints; interim analyses and group sequential methods; subgroup analyses; and meta-analyses.
