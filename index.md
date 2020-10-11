@@ -6,14 +6,16 @@ Previously, I obtained my MPhil in Management Operations from the University of 
 
 If you can't reach me, it's likely that I'm on the golf course, catching up on the latest in US-China relations, or cheering on the Tar Heels!
 
-## Research
+# Research
 
-# 2020
+## Crowdsourcing
 
-# 2019
+**Crowdsourcing in health and medical research: a systematic review**.  
+Infectious Diseases of Poverty (2020).  
+Wang C, **Han L,** Stein G, Day S, Bien-Gund C, Mathews A, Ong JJ, Zhao PZ, Wei SF, Walker J, Chou R, Lee A, Chen A, Bayus B, Tucker JD.
 
-# 2018
+**Crowdsourcing HIV test promotion videos: a noninferiority randomized controlled trial in China**.    
+Clinical Infectious Diseases (2016).   
+Tang W, **Han L,** Best J, Zhang Y, Mollan K, Kim J, Liu F, Hudgens M, Bayus B, Terris-Prestholt F, Galler S, Yang L, Peeling R, Volberding P, Ma B, Xu H, Yang B, Huang S, Fenton K, Wei C, Tucker JD.
 
-# 2017
-
-# 2016
+## Infectious Diseases
