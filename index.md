@@ -148,5 +148,5 @@ Teaching Fellow: Fall 2019, 2020.
 An introductory course on probability theory and mathematical statistics for masters students in biostatistics and doctoral students in other departments.
 
 **BST 214/238: Advanced Topics in Clinical Trials**.  
-Teaching Fellow: Spring 2020, 2021.
+Teaching Fellow: Spring 2020, 2021.  
 A doctoral course for biostatistics students on advanced topics in the design, analysis, and interpretation of clinical trials, including study design; choice of endpoints; interim analyses and group sequential methods; subgroup analyses; and meta-analyses.
