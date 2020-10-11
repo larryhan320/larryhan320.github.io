@@ -1,11 +1,45 @@
 <img width="411" alt="smart" src="https://user-images.githubusercontent.com/43854975/95666626-6b7f4680-0b29-11eb-8060-c4501a0b7ea1.png">
 
-I'm a 3rd-year PhD candidate in [biostatistics](https://www.hsph.harvard.edu/biostatistics/) at Harvard University. [My research](https://scholar.google.com/citations?user=iZnTmxMAAAAJ&hl=en&oi=ao) focuses on developing statistical methods to leverage the sub-optimality of real world data to improve decision-making in public health and clinical medicine. I'm lucky to be advised by [Professor Tianxi Cai](https://www.hsph.harvard.edu/tianxi-cai/) and [Professor Lorenzo Trippa](https://bcb.dfci.harvard.edu/~ltrippa/).
+I'm a 3rd-year PhD candidate in [biostatistics](https://www.hsph.harvard.edu/biostatistics/) at Harvard University. [My research](https://scholar.google.com/citations?user=iZnTmxMAAAAJ&hl=en&oi=ao) focuses on developing statistical methods to leverage sub-optimal real world data to improve decision-making in public health and clinical medicine. I'm lucky to be advised by [Professor Tianxi Cai](https://www.hsph.harvard.edu/tianxi-cai/).
 
-Previously, I obtained my MPhil in Management Operations from the University of Cambridge under the guidance of [Professor Stefan Scholtes](https://www.jbs.cam.ac.uk/faculty-research/faculty-a-z/stefan-scholtes/) and my MA in Global Affairs from Tsinghua University as an inaugural [Schwarzman Scholar](https://www.schwarzmanscholars.org/). I completed my bachelors in biostatistics from the University of North Carolina at Chapel Hill.
+I enjoy spending time on the golf course, catching up on the latest in US-China relations, and cheering on the Tar Heels!
 
-If you can't reach me, it's likely that I'm on the golf course, catching up on the latest in US-China relations, or cheering on the Tar Heels!
+# Education
+---
 
+**Harvard University**  
+PhD in Biostatistics, 2018-2022 (expected)  
+AM in Biostatistics, 2020 
+Dissertation Advisor: Tianxi Cai  
+Dissertation Committee: Lorenzo Trippa, Rui Duan, Sebastian Schneeweiss
+
+**University of Cambridge**  
+MPhil in Operations Management, 2018  
+Thesis Advisor: Stefan Scholtes
+
+**Tsinghua University**  
+MA in Global Affairs, 2017   
+Thesis Advisor: Michael Powers
+
+**University of North Carolina**  
+BSPH in Biostatistics, 2016   
+Thesis Advisor: Michael Hudgens
+
+# Honors and Awards
+---
+
+* China Hands 25 Under 25 Leaders in US-China Relations, 2019
+* University of Cambridge Distinction and Top Thesis, 2018
+* Gates Cambridge Scholarship, 2017-2018
+* Tsinghua University Outstanding Master’s Thesis Award, 2017
+* Schwarzman Scholarship, 2016-2017
+* Phillips Ambassadors 10-Year Anniversary Award, 2016
+* Order of the Golden Fleece, 2016
+* Phi Beta Kappa, 2015
+* Goldwater Scholarship, 2015
+* Phillips Ambassadorship, 2013-2014
+* Morehead-Cain Scholarship, 2012-2016
+* National Merit Scholarship, 2012-2016
 
 # Research
 ---
@@ -150,3 +184,5 @@ An introductory course on probability theory and mathematical statistics for mas
 **BST 214/238: Advanced Topics in Clinical Trials**.  
 Teaching Fellow: Spring 2020, 2021.  
 A doctoral course for biostatistics students on advanced topics in the design, analysis, and interpretation of clinical trials, including study design; choice of endpoints; interim analyses and group sequential methods; subgroup analyses; and meta-analyses.
+
+
