@@ -8,6 +8,7 @@ If you can't reach me, it's likely that I'm on the golf course, catching up on t
 
 
 # Research
+---
 
 ## Ongoing Statistical Methods Papers
 
@@ -127,7 +128,8 @@ Tucker JD, Muessig KE, Cui R, Bien CH, Lo EJ, Lee R, Wang K, **Han L,** Liu FY, 
 Sexually Transmitted Infections (2014).  
 Wei C, Muessig KE, Bien C, Yang L, Meng R, **Han L,** Yang M, Tucker JD.
 
-## Service
+# Service
+---
 
 **Harvard Department of Biostatistics Diversity, Inclusion, and Equity Committee**.  
 PhD Student Representative (2020-).
@@ -138,7 +140,8 @@ Lead for promotion of department community at a distance (2020-).
 **University of North Carolina -- Carolina Collective**.  
 Organizing committee for safe and effective re-opening of campus during the COVID-19 era (2020-).
 
-## Teaching
+# Teaching
+---
 
 **BST 222: Basics of Statistical Inference**.  
 Teaching Fellow: Fall 2019, 2020.  
