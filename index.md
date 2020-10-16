@@ -1,6 +1,6 @@
 <img width="260" alt="casual" src="https://user-images.githubusercontent.com/43854975/95690181-c2e1ed00-0be3-11eb-9f7c-fc35e1f67fac.png">
 
-I'm a 3rd-year PhD candidate in [biostatistics](https://www.hsph.harvard.edu/biostatistics/) at Harvard University. [My research](https://scholar.google.com/citations?user=iZnTmxMAAAAJ&hl=en&oi=ao) focuses on developing statistical methods to leverage sub-optimal real world data to improve decision-making in public health and clinical medicine. I'm lucky to be advised by [Professor Tianxi Cai](https://www.hsph.harvard.edu/tianxi-cai/).
+I'm a 3rd-year PhD candidate in [biostatistics](https://www.hsph.harvard.edu/biostatistics/) at Harvard University. [My research](https://scholar.google.com/citations?user=iZnTmxMAAAAJ&hl=en&oi=ao) focuses on developing statistical methods to leverage sub-optimal real world data to improve decision-making in public health and clinical medicine. I'm lucky to be mentored by [Professor Tianxi Cai](https://www.hsph.harvard.edu/tianxi-cai/).
 
 I enjoy spending time on the golf course, catching up on the latest in US-China relations, and cheering on the Tar Heels!
 
@@ -10,8 +10,9 @@ I enjoy spending time on the golf course, catching up on the latest in US-China 
 **Harvard University**  
 PhD in Biostatistics, 2018-2022 (expected)  
 AM in Biostatistics, 2020  
-Dissertation Advisor: [Tianxi Cai](https://www.hsph.harvard.edu/tianxi-cai/)  
-Dissertation Committee: [Lorenzo Trippa,](https://www.hsph.harvard.edu/lorenzo-trippa/) [Rui Duan,](https://sites.google.com/view/ruiduan/home?authuser=0) [Sebastian Schneeweiss](https://www.hsph.harvard.edu/sebastian-schneeweiss/)
+Dissertation Primary Advisor: [Tianxi Cai](https://www.hsph.harvard.edu/tianxi-cai/) 
+Dissertation Co-Advisor: [Lorenzo Trippa,](https://www.hsph.harvard.edu/lorenzo-trippa/)
+Dissertation Committee:  [Rui Duan,](https://sites.google.com/view/ruiduan/home?authuser=0) [Sebastian Schneeweiss](https://www.hsph.harvard.edu/sebastian-schneeweiss/)
 
 **University of Cambridge**  
 MPhil in Operations Management, 2018  
@@ -170,6 +171,9 @@ PhD Student Representative (2020-).
 
 **Harvard Department of Biostatistics Mental Health Working Group**.  
 Lead for promotion of department community at a distance (2020-).
+
+**Harvard Graduate ABSK**.
+President (2019-).
 
 **University of North Carolina -- Carolina Collective**.  
 Organizing committee for safe and effective re-opening of campus during the COVID-19 era (2020-).
