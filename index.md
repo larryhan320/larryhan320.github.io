@@ -10,8 +10,8 @@ I enjoy spending time on the golf course, catching up on the latest in US-China 
 **Harvard University**  
 PhD in Biostatistics, 2018-2022 (expected)  
 AM in Biostatistics, 2020  
-Dissertation Primary Advisor: [Tianxi Cai](https://www.hsph.harvard.edu/tianxi-cai/) 
-Dissertation Co-Advisor: [Lorenzo Trippa,](https://www.hsph.harvard.edu/lorenzo-trippa/)
+Dissertation Primary Advisor: [Tianxi Cai](https://www.hsph.harvard.edu/tianxi-cai/)  
+Dissertation Co-Advisor: [Lorenzo Trippa](https://www.hsph.harvard.edu/lorenzo-trippa/)  
 Dissertation Committee:  [Rui Duan,](https://sites.google.com/view/ruiduan/home?authuser=0) [Sebastian Schneeweiss](https://www.hsph.harvard.edu/sebastian-schneeweiss/)
 
 **University of Cambridge**  
