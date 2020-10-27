@@ -59,6 +59,11 @@ In preparation.
 In preparation.   
 **Han L,** Hong C, Hou J, Cai T.
 
+**Distributed Learning in Causal Modeling**.  
+In preparation.  
+**Han L,** Hou J, Duan R, Cai T.
+
+
 ## Electronic Health Records
 
 **[Stratifying risk for dementia onset using large-scale electronic health record data: a retrospective cohort study](https://alz-journals.onlinelibrary.wiley.com/doi/abs/10.1016/j.jalz.2019.09.084)**.  
