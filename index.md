@@ -29,6 +29,7 @@ Thesis Advisor: [Michael Hudgens](https://sph.unc.edu/adv_profile/michael-hudgen
 # Honors and Awards
 ---
 
+* ENAR Distinguished Student Paper Award, 2021   
 * China Hands 25 Under 25 Leaders in US-China Relations, 2019
 * University of Cambridge Distinction and Top Thesis, 2018
 * Gates Cambridge Scholarship, 2017-2018
@@ -177,10 +178,10 @@ PhD Student Representative (2020-).
 **Harvard Department of Biostatistics Mental Health Working Group**.  
 Lead for promotion of department community at a distance (2020-).
 
-**Harvard Graduate ABSK**.
+**Harvard Graduate ABSK**.    
 President (2019-).
 
-**University of North Carolina -- Carolina Collective**.  
+**University of North Carolina -- Carolina Collective**.   
 Organizing committee for safe and effective re-opening of campus during the COVID-19 era (2020-).
 
 # Teaching
