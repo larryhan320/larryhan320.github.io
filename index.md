@@ -77,6 +77,10 @@ Emergency Medicine Journal (2019).
 
 ## Cardiology
 
+**[Associations between female sex, sarcomeric variants, and clinical outcomes in hypertrophic cardiomyopathy](https://www.ahajournals.org/doi/abs/10.1161/CIRCGEN.120.003062)**.  
+Circulation: Genomic and Precision Medicine (2020).  
+Lakdawala NK, Olivotto I, Day SM, **Han L,** Ashley EA, Michels M, Ingles J, Semsarian C, Jacoby D, Jefferies JL, Colan SD, Pereira AC, Rossano JW, Wittekind S, Ware JS, Saberi S, Helms AS, Cirino AL, Leinwand LA, Seidman CE, Ho CY. 
+
 **[Hypertrophic Cardiomyopathy With Left Ventricular Systolic Dysfunction: Insights From the SHaRe Registry](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.119.044366?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)**.   
 Circulation (2020).   
 Marstrand P, **Han L,** Day SM, Olivotto I, Ashley EA, Michels M, Pereira AC, Wittekind SG, Helms A, Saberi S, Jacoby D, Ware JS, Colan SD, Semsarian C, Ingles J, Lakdawala NK, Ho CY; SHaRe Investigators.  
