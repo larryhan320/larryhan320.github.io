@@ -32,16 +32,17 @@ Thesis Advisor: [Michael Hudgens](https://sph.unc.edu/adv_profile/michael-hudgen
 * ENAR Distinguished Student Paper Award, 2021   
 * China Hands 25 Under 25 Leaders in US-China Relations, 2019
 * University of Cambridge Distinction and Top Thesis, 2018
-* Gates Cambridge Scholarship, 2017-2018
+* Gates Cambridge Scholarship, 2017
 * Tsinghua University Outstanding Master’s Thesis Award, 2017
-* Schwarzman Scholarship, 2016-2017
+* Schwarzman Scholarship, 2016
+* Delta Omega Award of Excellence, 2016  
 * Phillips Ambassadors 10-Year Anniversary Award, 2016
 * Order of the Golden Fleece, 2016
 * Phi Beta Kappa, 2015
 * Goldwater Scholarship, 2015
-* Phillips Ambassadorship, 2013-2014
-* Morehead-Cain Scholarship, 2012-2016
-* National Merit Scholarship, 2012-2016
+* Phillips Ambassadorship, 2014
+* Morehead-Cain Scholarship, 2012
+* National Merit Scholarship, 2012
 
 # Research
 ---
@@ -50,6 +51,7 @@ Thesis Advisor: [Michael Hudgens](https://sph.unc.edu/adv_profile/michael-hudgen
 
 **On the Evaluation of Surrogate Markers in Real World Data Settings**.  
 In preparation.   
+**ENAR Distinguished Student Paper Award, 2021**.    
 **Han L,** Wang X, Cai T.
 
 **Simple and Principled Sensitivity Analysis for Clinical Trials**.  
